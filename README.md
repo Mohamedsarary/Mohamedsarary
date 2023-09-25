@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="200" src="https://i.pinimg.com/originals/59/87/1c/59871c7fb4ca4d906e9ef1f4566cd378.gif">
+<img align="center" alt="Coding" width="300" src="https://i.pinimg.com/originals/59/87/1c/59871c7fb4ca4d906e9ef1f4566cd378.gif">
 <h1 align="center">Hi 👋, I'm Mohamed Sarary</h1>
 <h3 align="center">Embedded Systems Software Engineer</h3>
 <h3 align="center">Sarary221@gmail.com</h3>
