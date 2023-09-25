@@ -1,5 +1,5 @@
-<div align = "center">
-<img src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216">
+<div align = "center" >
+<img height="300" width="300" src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216">
 </div>
 
 <h1 align="center">Hi 👋, I'm Mohamed Sarary</h1>
