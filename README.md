@@ -1,6 +1,7 @@
+
+<img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/59/87/1c/59871c7fb4ca4d906e9ef1f4566cd378.gif">
 <h1 align="center">Hi 👋, I'm Mohamed Sarary</h1>
 <h3 align="center">Embedded Systems Software Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/59/87/1c/59871c7fb4ca4d906e9ef1f4566cd378.gif">
 <p align="left"> <a href="https://twitter.com/mhmedsarary" target="blank"><img src="https://img.shields.io/twitter/follow/mhmedsarary?logo=twitter&style=for-the-badge" alt="mhmedsarary" /></a> </p>
 
 - 📫 How to reach me **Sarary221@gmail.com**
