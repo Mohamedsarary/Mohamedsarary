@@ -1,5 +1,5 @@
 <div align = "center" >
-<img height="300" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNThqaGdqYjMxbm01eXZtZGtuNW4ydWdxdTIzczFrdnR4cWRweWR2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<img height="250" width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNThqaGdqYjMxbm01eXZtZGtuNW4ydWdxdTIzczFrdnR4cWRweWR2cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 </div>
 
 <h1 align="center">Hi 👋, I'm Mohamed Sarary</h1>
